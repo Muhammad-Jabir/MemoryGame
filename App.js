@@ -96,6 +96,5 @@ function greatherthan(){
 }
 
 
-//Nothing is not more important than learning so plz learn bro...
-//Nothing is not more important  than learning so plz learn bro...
+
 
