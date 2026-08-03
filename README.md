@@ -2,8 +2,6 @@
 
 A classic **Simon Says** memory game built with HTML, CSS, and JavaScript. Test your memory by repeating increasingly long sequences of colored buttons!
 
-<video controls src="Memory_Game.mp4" title="Memory_Game"></video>
-
 ## 🕹️ How to Play
 
 1. **Press any key** to start the game
