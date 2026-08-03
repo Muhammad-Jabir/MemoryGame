@@ -10,7 +10,7 @@ let level = 0;
 let h2 = document.querySelector('h2');
 let p = document.querySelector('p');
 
-document.addEventListener('keypress',function(){
+document.addEventListener('click',function(){
 if(started == false){
     console.log('Game is Started!');
     started = true;
